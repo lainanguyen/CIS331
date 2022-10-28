@@ -1,7 +1,5 @@
 // C++ code
 //
-//Caleb Rudloff helped me with this project
-//Some code was taken from class- comment on section
 //Used code from https://www.tutorialkart.com/c-programming/c-find-index-of-specific-element-in-array/ - comment on section
 
 const unsigned int LIGHTUP = 1;
